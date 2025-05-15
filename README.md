@@ -125,6 +125,6 @@ This School Management System WordPress plugin is released under the [GNU GENERA
 
 ## Support
 
-For any questions or support, feel free to contact us at [harsh.v@outlook.in](mailto:harsh.v@outlook.in)
+For any questions or support, feel free to contact us at [hello@vermaharsh.in](mailto:hello@vermaharsh.in)
 
 We hope the School Management System plugin helps you efficiently manage your educational institution. Thank you for using our plugin!
